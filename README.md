@@ -31,4 +31,15 @@ Fork & Knife는 맞춤 검색과 실시간 예약이 가능한 식당 예약 사
     - 공지, 이벤트 등록/수정/삭제
   - 카테고리 별 검색 기능 제작
   - 예약, 결제 기능 제작
-  - 
+  - 메인 페이지 가격별 추천 기능 제작
+
+![fork1](https://user-images.githubusercontent.com/67087560/208822862-085570c8-8b67-40d7-b32c-c37e112c4f46.png)
+![image](https://user-images.githubusercontent.com/67087560/208823049-f40678e2-f810-4108-9993-b986bc8727d9.png)
+- 메인 페이지
+
+![image](https://user-images.githubusercontent.com/67087560/208823204-e8c9ca96-b4f8-47ee-a2a5-d644e2cf5520.png)
+- 관리자 페이지
+
+![image](https://user-images.githubusercontent.com/67087560/208823449-defc8268-4c72-4695-a71f-8ef7bb86421e.png)
+- 검색 페이지
+
