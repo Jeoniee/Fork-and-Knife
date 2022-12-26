@@ -4,7 +4,7 @@
 
 Fork & Knife는 맞춤 검색과 실시간 예약이 가능한 식당 예약 사이트 입니다!
 
-배포 URL 🔗 [Fork&Knife](itwillbs10.cafe24.com/Fork)
+배포 URL 🔗 itwillbs10.cafe24.com/Fork(링크가 안걸리는 관계로 복사하셔야 합니다.)
 
 ## :clipboard: 사용 기술
 
