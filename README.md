@@ -6,7 +6,7 @@ Fork & Knife는 맞춤 검색과 실시간 예약이 가능한 식당 예약 사
 
 배포 URL 🔗 itwillbs10.cafe24.com/Fork(링크가 안걸리는 관계로 복사하셔야 합니다.)
 
-계정 :
+계정 : <br>
 관리자 : admin / admin123 <br>
 일반 유저 : user111 / dkssud1 <br>
 점장 유저 : store1 / 1234aa <br>
